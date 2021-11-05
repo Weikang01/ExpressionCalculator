@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/LakeheadUCourse/2nd_year_fall/DataStruct_COMP2412/assignments/assign02/RPN.h
+pch.h
+D:/LakeheadUCourse/2nd_year_fall/DataStruct_COMP2412/assignments/assign02/pch.h
+
+D:/LakeheadUCourse/2nd_year_fall/DataStruct_COMP2412/assignments/assign02/main.c
+parser.h
+D:/LakeheadUCourse/2nd_year_fall/DataStruct_COMP2412/assignments/assign02/parser.h
+
+D:/LakeheadUCourse/2nd_year_fall/DataStruct_COMP2412/assignments/assign02/operator.h
+pch.h
+D:/LakeheadUCourse/2nd_year_fall/DataStruct_COMP2412/assignments/assign02/pch.h
+
+D:/LakeheadUCourse/2nd_year_fall/DataStruct_COMP2412/assignments/assign02/parser.h
+pch.h
+D:/LakeheadUCourse/2nd_year_fall/DataStruct_COMP2412/assignments/assign02/pch.h
+stdio.h
+-
+string.h
+-
+RPN.h
+D:/LakeheadUCourse/2nd_year_fall/DataStruct_COMP2412/assignments/assign02/RPN.h
+operator.h
+D:/LakeheadUCourse/2nd_year_fall/DataStruct_COMP2412/assignments/assign02/operator.h
+
+D:/LakeheadUCourse/2nd_year_fall/DataStruct_COMP2412/assignments/assign02/pch.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+math.h
+-
+

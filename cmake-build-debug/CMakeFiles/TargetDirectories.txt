@@ -1,0 +1,3 @@
+D:/LakeheadUCourse/2nd_year_fall/DataStruct_COMP2412/assignments/assign02/cmake-build-debug/CMakeFiles/assign02.dir
+D:/LakeheadUCourse/2nd_year_fall/DataStruct_COMP2412/assignments/assign02/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/LakeheadUCourse/2nd_year_fall/DataStruct_COMP2412/assignments/assign02/cmake-build-debug/CMakeFiles/rebuild_cache.dir
